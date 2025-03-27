@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') OR exit('No direct script access allowed'); Anup Testing
 class Admin extends CI_Controller {
 public function index()
 	{
